@@ -32,7 +32,7 @@
 
 ☝️ Install the package via composer.
 
-    composer require binarytorch/larecipe
+    composer require ccarch/larecipe dev-master
 
 ✌️ Run the install command.
 
